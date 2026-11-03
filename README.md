@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... SAS, python, kafka, data analysis, data science, data engineering 
 - 🌱 I’m currently learning ... GCP
 - 💞️ I’m looking to collaborate on ... data projects 
-- 📫 How to reach me ... https://www.linkedin.com/in/arnaldoleandro/ 
+- 📫 where to find me ... https://www.linkedin.com/in/arnaldoleandro/ 
 
 <!---
 arnaldoleandro/arnaldoleandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
